@@ -15,6 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://gitlab.com/libeigen/eigen.git"
-    version: "3.4.0"
+    version: "3147391d946bb4b6c68edd901f2add6ac1f31f8c"
+    closest_version: "3.4.0"
   }
 }
